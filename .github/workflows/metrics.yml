@@ -21,15 +21,11 @@ jobs:
           base: header, activity, metadata
           config_timezone: America/Asuncion
           token: ${{ secrets.METRICS_TOKEN }}
-
-      - name: Achievements
-        uses: lowlighter/metrics@latest
-        with:
-          filename: achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_sort: starred
 
       - name: Activity
         uses: lowlighter/metrics@latest
@@ -57,13 +53,3 @@ jobs:
           base: ""
           plugin_people: yes
           plugin_people_types: followers
-
-      - name: Topics
-        uses: lowlighter/metrics@latest
-        with:
-          filename: topics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_topics: yes
-          plugin_topics_mode: icons
-          plugin_topics_sort: starred
