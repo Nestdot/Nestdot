@@ -14,9 +14,15 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          user: Nestdot
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Asuncion
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_achievements: yes
           plugin_achievements_display: compact
+          plugin_activity: yes
+          plugin_activity_visibility: public
           plugin_calendar: yes
           plugin_calendar_limit: 1
           plugin_people: yes
