@@ -42,6 +42,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/New%20Button.png" alt="New Button" width="50" height="50" /> Recent activity
 
 ![Metrics](/activity.svg)
+<br></br>
 ![Metrics](/isoCalendar.svg)
 <br></br>
 
