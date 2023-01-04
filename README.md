@@ -2,6 +2,7 @@
 
 [![Generic badge](https://img.shields.io/badge/Currently-Developing-green)](https://shields.io/)
 [![Hits](https://hits.sh/github.com/Nestdot/hits.svg?style=flat-square&label=Profile%20Visits&color=99C611)](https://hits.sh/github.com/Nestdot/hits/)
+<br></br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Person%20Raising%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Person Raising Hand Medium-Light Skin Tone" width="50" height="50" /> About me
 
@@ -50,6 +51,7 @@
 <a href="https://docs.google.com/document/d/1_Ok4WOaIPC-sGRAh6f69T9JJtISn40jmsXaRFvEdFM0/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/dogecoin-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white" alt="Dogecoin Logo" />
 <a href="https://docs.google.com/document/d/1XUVlRFalX5ya25iyQwuEzao_wDR9e9ED_4znVi7Y844/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum Logo" />
 </p>
+
 <p align="center">
 <a href="https://docs.google.com/document/d/19mozdfs8HrGl9y38wTUQnBNYKzf9D57LG4WgjhCYKWg/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white" alt="Litecoin Logo" />
 <a href="https://docs.google.com/document/d/1rI42FxSsfw70OhPpIxnC89NYQT_QyzW8sUiZPyxJ07s/edit?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white" alt="Monero Logo" />
