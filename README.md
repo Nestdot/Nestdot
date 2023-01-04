@@ -8,8 +8,6 @@
 
 ![Metrics](/general.svg)
 <br></br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nestdot&show_icons=true&theme=radical)
-<br></br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Medium-Light%20Skin%20Tone.png" alt="Technologist Medium-Light Skin Tone" width="50" height="50" /> Technologies I worked with
 
