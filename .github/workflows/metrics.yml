@@ -16,7 +16,7 @@ jobs:
       - name: General
         uses: lowlighter/metrics@latest
         with:
-          filename: General.svg
+          filename: general.svg
           user: Nestdot
           base: header, activity, metadata
           config_timezone: America/Asuncion
